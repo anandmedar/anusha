@@ -120,6 +120,7 @@ section.story img {
 section.story img.animated {
   transition: opacity 0.3s ease-in-out;
   animation: reveal 2s;
+  filter: drop-shadow(2px 4px 6px black);
 }
 
 section.story img.animated:hover {
