@@ -170,10 +170,6 @@ p {
 }
 
 @media screen and (max-width: 658px) {
-    body {
-        transform: rotate(90deg);
-    }
-
     p {
         font-weight: 600;
         font-size: 12vw;
